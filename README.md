@@ -1,7 +1,7 @@
-﻿![](Tanuki_By_Iwanafish-_Cropped.jpg)
+﻿![](docs/Tanuki_By_Iwanafish-_Cropped.jpg)
  
 ## The future of AI
-![](WindingFancyLabradorretriever-size_restricted.gif)![](pytorch-logo-flat.png)![](tenor.gif)
+![](docs/WindingFancyLabradorretriever-size_restricted.gif)![](docs/pytorch-logo-flat.png)![](docs/tenor.gif)
 
 
 
